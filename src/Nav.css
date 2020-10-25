@@ -1,0 +1,14 @@
+nav {
+    background-color: rgb(35, 57, 98);
+    height: 2rem;
+}
+nav a {
+    margin: 5px;
+    font-size: 1.25rem;
+    text-decoration: none;
+    color: rgba(255, 255, 255, 0.719);
+}
+
+.active {
+    color: white;
+}
